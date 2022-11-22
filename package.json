@@ -45,6 +45,15 @@
     ]
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/parser": "^5.44.0",
+    "eslint": "^8.28.0",
+    "eslint-plugin-react": "^7.31.11",
     "sass": "^1.56.1"
-  }
+  },
+  "description": "Projeto da formação de React com Typescript da Alura",
+  "main": "index.js",
+  "repository": "git@github.com:IngridCosta23/aluroni.git",
+  "author": "<ingridmoreiracosta23@gmail.com>",
+  "license": "MIT"
 }
